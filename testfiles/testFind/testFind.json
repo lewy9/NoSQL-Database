@@ -1,0 +1,24 @@
+{
+	"banana":"1" ,"beijing":"large"
+}
+	
+{
+	"fruit":{"apple":"1","banana":"2"},"city":{"beijing":"large","st.Louis":"small"}
+}
+	
+{
+	"fruit":["banana","lemon","apple"],"city":["beijing","chicago","new york"]
+}
+	
+{
+	"lemon":"5","beijing":"large"
+}
+	
+{
+	"fruit":{"orange":"8","banana":"2"},"city":{"chicage":"large","st.Louis":"small"}
+}
+	
+{
+	"fruit":["peach","apple","lemon"],"city":["dallas","chicago","new york"]
+}
+	

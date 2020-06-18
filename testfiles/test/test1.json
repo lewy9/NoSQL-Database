@@ -1,0 +1,12 @@
+{"key2":"value2","id":"5844dd6a-a783-4cf7-bd65-05379bc56f8d","key1":"PrimitiveChange"}
+	
+{"key2":"value2","id":"684e2713-4fe3-4e19-a552-a4854b70bf57","key1":"PrimitiveChange"}
+	
+{"key5":"value5","id":"1c2df8b7-afd7-4d99-854c-935866ca8abf","city1":{"city1":"EmbeddedChange","city2":"EmbeddedChange"}}
+	
+{"key6":"value6","city2":{"city1":"Nanjing","city2":"St. Louis"},"id":"619241a4-fe26-44e0-a845-2376f13b4b3a"}
+	
+{"key1":"fruit","id":"56adcda2-2692-4193-a2b5-1d053fade854","key7":["ArrayChange","ArrayChange","ArrayChange"]}
+	
+{"key9":["apple","banana","pear"],"key1":"fruit2","id":"a7affc70-8018-4b9d-9e36-970bd988d7d0"}
+	
